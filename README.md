@@ -1,2 +1,2 @@
 # hello-world
-startup
+startup make some tests
